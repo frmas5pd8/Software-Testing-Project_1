@@ -11,6 +11,9 @@ In this repo, you will find a comprehensive collection of project were successfu
 # Test Cases Templates
 * Link :
 
+# Test Scenario Templates
+* Link :
+  
 # Bug Report Templates
 * Link :
 
