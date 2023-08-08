@@ -13,7 +13,7 @@ In this repo, you will find a comprehensive collection of project were successfu
 
 # Test Plan Document Templates
 * It is a comprehensive document that outlines the approach, objectives, scope, resources, and schedule for testing a software application or system. It defines the testing strategies, test cases, and methodologies to ensure thorough verification and validation of the software's functionality. The test plan serves as a roadmap for the testing process, ensuring that all aspects of the software are examined to identify and resolve any issues before its release.
-* Link : https://docs.google.com/document/d/1ubN68z3Pr-HHSbZD4SDwsJ6uNFm9dab4yrsdII-QZeY/edit?usp=sharing
+* Link : https://docs.google.com/document/d/1Mkz6UBp1rX55QOyh5dgQJVaw5O74gpN_H0hSxukb_nE/edit?usp=sharing
 
 # Test Scenario Document Template
 * It is a specific set of test cases that collectively verify a particular aspect or functionality of a software application. It defines the conditions, actions, and expected results to test a specific requirement or feature. Test scenarios help ensure comprehensive testing coverage and aid in identifying defects early in the testing process.
