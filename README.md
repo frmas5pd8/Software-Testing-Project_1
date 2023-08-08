@@ -9,8 +9,8 @@ In this repo, you will find a comprehensive collection of project were successfu
 # Test Strategy Document Templates
 * It is a high-level document that outlines the o
 * verall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
-* Link : https://docs.google.com/document/d/1Z4GubGtLv44scVdmtNSWrF_i5-xGxZ0E9YV97rDrpXE/edit?usp=sharing
-
+* Link : https://docs.google.com/document/d/1K7dOhWynhriELXQnFYtsHYMbwbrb7XSgHQA9brHcp0w/edit?usp=sharing
+  
 # Test Plan Document Templates
 * It is a comprehensive document that outlines the approach, objectives, scope, resources, and schedule for testing a software application or system. It defines the testing strategies, test cases, and methodologies to ensure thorough verification and validation of the software's functionality. The test plan serves as a roadmap for the testing process, ensuring that all aspects of the software are examined to identify and resolve any issues before its release.
 * Link : https://docs.google.com/document/d/1Mkz6UBp1rX55QOyh5dgQJVaw5O74gpN_H0hSxukb_nE/edit?usp=sharing
