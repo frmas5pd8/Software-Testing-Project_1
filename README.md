@@ -3,9 +3,12 @@ In this repo, you will find a comprehensive collection of project were successfu
  
 # Functional Requirement Specification (FRS) Report
 * It is a concise and detailed document outlining the functional capabilities and features required for a software system or application. It defines how the system should behave in response to specific inputs and conditions, specifying the expected outputs. FRS serves as a blueprint that guides the development team in designing and implementing the software to meet the client's needs and expectations accurately.
+* Link : https://docs.google.com/document/d/1SniLxID0RQXCF0IR3_JBnR-wP9bOZvkXNSrGxBFCFTs/edit?usp=sharing
+  
 
 # Test Strategy Document Templates
-* It is a high-level document that outlines the overall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
+* It is a high-level document that outlines the o
+* verall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
 * Link : https://docs.google.com/document/d/1Z4GubGtLv44scVdmtNSWrF_i5-xGxZ0E9YV97rDrpXE/edit?usp=sharing
 
 # Test Plan Document Templates
