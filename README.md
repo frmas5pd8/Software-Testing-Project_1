@@ -27,7 +27,7 @@ In this repo, you will find a comprehensive collection of project were successfu
   
 # Test Execution Document Template
 * It refers to the process of running test cases and evaluating software behavior against expected outcomes. During this phase, testers execute the prepared test cases and record the actual results. It helps identify defects and ensures the software's compliance with requirements before release.
-* Link :
+* Link : https://docs.google.com/spreadsheets/d/1C3ewWgL24kWo1wDIksxadSxfb7jubsGX/edit?usp=drive_link&ouid=106596647200074532753&rtpof=true&sd=true
   
 # Bug Report Document Template
 * It is a document that provides detailed information about a discovered software defect or issue. It includes a description of the problem, steps to reproduce it, environment details, and any relevant attachments like screenshots or logs. Bug reports help developers understand, replicate, and fix the reported issues, contributing to the overall improvement of software quality.
