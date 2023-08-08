@@ -18,9 +18,9 @@ In this repo, you will find a comprehensive collection of project were successfu
 * It is a specific set of test cases that collectively verify a particular aspect or functionality of a software application. It defines the conditions, actions, and expected results to test a specific requirement or feature. Test scenarios help ensure comprehensive testing coverage and aid in identifying defects early in the testing process.
 * Link : https://docs.google.com/spreadsheets/d/1hn2oIuZleUNsCMzQjw0LbpQKAOsbmuHm/edit?usp=drive_link&ouid=106596647200074532753&rtpof=true&sd=true
   
-# Test Cases Document Templates
+# Test Case Document Templates
 * It is a detailed set of instructions or steps designed to validate a specific functionality or behavior of a software system. It includes preconditions, inputs, expected outcomes, and post-conditions. Test cases serve as executable documentation to verify that the software meets the specified requirements and performs as expected.
-* Link :
+* Link : https://docs.google.com/spreadsheets/d/1jfPVh-ClZUVwEAGQjHyOvoioqfqs0AvX/edit?usp=sharing&ouid=106596647200074532753&rtpof=true&sd=true
 
 # Test Enviroment Document Template
 * It is a dedicated setup that replicates the production environment for testing software applications. It includes hardware, software, network configurations, and databases necessary to conduct thorough testing. The test environment ensures accurate simulation of real-world scenarios, enabling testers to identify and resolve issues before the software is deployed to the production environment.
