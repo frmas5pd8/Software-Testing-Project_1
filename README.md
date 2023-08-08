@@ -5,7 +5,6 @@ In this repo, you will find a comprehensive collection of project were successfu
 * It is a concise and detailed document outlining the functional capabilities and features required for a software system or application. It defines how the system should behave in response to specific inputs and conditions, specifying the expected outputs. FRS serves as a blueprint that guides the development team in designing and implementing the software to meet the client's needs and expectations accurately.
 * Link : https://docs.google.com/document/d/1SniLxID0RQXCF0IR3_JBnR-wP9bOZvkXNSrGxBFCFTs/edit?usp=sharing
   
-
 # Test Strategy Document Templates
 * It is a high-level document that outlines the o
 * verall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
@@ -17,7 +16,7 @@ In this repo, you will find a comprehensive collection of project were successfu
 
 # Test Scenario Document Template
 * It is a specific set of test cases that collectively verify a particular aspect or functionality of a software application. It defines the conditions, actions, and expected results to test a specific requirement or feature. Test scenarios help ensure comprehensive testing coverage and aid in identifying defects early in the testing process.
-* Link :
+* Link : https://docs.google.com/spreadsheets/d/1hn2oIuZleUNsCMzQjw0LbpQKAOsbmuHm/edit?usp=drive_link&ouid=106596647200074532753&rtpof=true&sd=true
   
 # Test Cases Document Templates
 * It is a detailed set of instructions or steps designed to validate a specific functionality or behavior of a software system. It includes preconditions, inputs, expected outcomes, and post-conditions. Test cases serve as executable documentation to verify that the software meets the specified requirements and performs as expected.
