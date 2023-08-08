@@ -5,12 +5,11 @@ In this repo, you will find a comprehensive collection of project were successfu
 * It is a concise and detailed document outlining the functional capabilities and features required for a software system or application. It defines how the system should behave in response to specific inputs and conditions, specifying the expected outputs. FRS serves as a blueprint that guides the development team in designing and implementing the software to meet the client's needs and expectations accurately.
 * Link : https://docs.google.com/document/d/1SniLxID0RQXCF0IR3_JBnR-wP9bOZvkXNSrGxBFCFTs/edit?usp=sharing
   
-# Test Strategy Document Templates
-* It is a high-level document that outlines the o
-* verall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
+# Test Strategy Document Template
+* It is a high-level document that outlines the overall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
 * Link : https://docs.google.com/document/d/1K7dOhWynhriELXQnFYtsHYMbwbrb7XSgHQA9brHcp0w/edit?usp=sharing
   
-# Test Plan Document Templates
+# Test Plan Document Template
 * It is a comprehensive document that outlines the approach, objectives, scope, resources, and schedule for testing a software application or system. It defines the testing strategies, test cases, and methodologies to ensure thorough verification and validation of the software's functionality. The test plan serves as a roadmap for the testing process, ensuring that all aspects of the software are examined to identify and resolve any issues before its release.
 * Link : https://docs.google.com/document/d/1Mkz6UBp1rX55QOyh5dgQJVaw5O74gpN_H0hSxukb_nE/edit?usp=sharing
 
