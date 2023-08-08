@@ -20,10 +20,6 @@ In this repo, you will find a comprehensive collection of project were successfu
 # Test Case Document Templates
 * It is a detailed set of instructions or steps designed to validate a specific functionality or behavior of a software system. It includes preconditions, inputs, expected outcomes, and post-conditions. Test cases serve as executable documentation to verify that the software meets the specified requirements and performs as expected.
 * Link : https://docs.google.com/spreadsheets/d/1jfPVh-ClZUVwEAGQjHyOvoioqfqs0AvX/edit?usp=sharing&ouid=106596647200074532753&rtpof=true&sd=true
-
-# Test Enviroment Document Template
-* It is a dedicated setup that replicates the production environment for testing software applications. It includes hardware, software, network configurations, and databases necessary to conduct thorough testing. The test environment ensures accurate simulation of real-world scenarios, enabling testers to identify and resolve issues before the software is deployed to the production environment.
-* Link :
   
 # Test Execution Document Template
 * It refers to the process of running test cases and evaluating software behavior against expected outcomes. During this phase, testers execute the prepared test cases and record the actual results. It helps identify defects and ensures the software's compliance with requirements before release.
@@ -35,4 +31,4 @@ In this repo, you will find a comprehensive collection of project were successfu
 
 #  Requirements Traceability Matrix (RTM) Document Template
 * It is a table that links software requirements to corresponding test cases. It ensures comprehensive test coverage and helps track the validation of each requirement throughout the testing process. RTM aids in verifying that all requirements are met, fostering effective test management and alignment with project objectives.
-* Link :
+* Link : https://docs.google.com/spreadsheets/d/1x8C9lHA3D7ICvTAeDABgqQpJBLurfKRa/edit?usp=drive_link&ouid=106596647200074532753&rtpof=true&sd=true
